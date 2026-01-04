@@ -15,5 +15,3 @@ Exploring the intersection of **Pwn**, **Reverse Engineering**, and **Full-stack
 
 ### Stack
 `Python` · `C/C++` · `Assembly` · `Linux`
-
----

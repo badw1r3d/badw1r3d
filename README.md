@@ -2,7 +2,8 @@
 
 network engineering and cybersecurity student
 
-exploring the intersection of **pwn**, **reverse engineering**, and **full-stack offensive security**.
+exploring the intersection of:
+`pwn` · `reverse engineering` · `full-stack offensive security`
 
 ---
 

@@ -1,6 +1,6 @@
 # badw1r3d
 
-> network engineering and cybersecurity student
+network engineering and cybersecurity student
 
 exploring the intersection of pwn, reverse engineering, and full-stack offensive security.
 

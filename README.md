@@ -1,16 +1,18 @@
-## Hi there 👋
+# badw1r3d
 
-<!--
-**badw1r3d/badw1r3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network Engineering and Cybersecurity Student
+Exploring the intersection of Pwn, Reverse Engineering, and Network Security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently Focused on:**
+- Binary Exploitation & Reverse Engineering
+- Web & Network Security
+- Digital Forensics
+
+---
+
+### Stack
+`Python` · `C/C++` · `Assembly` · `Linux`
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[badw1r3d]&layout=compact&theme=transparent&hide_border=true&title_color=eee&text_color=999" width="300" />

@@ -1,17 +1,17 @@
 # badw1r3d
 
-Network Engineering and Cybersecurity Student
+network engineering and cybersecurity student
 
-Exploring the intersection of **Pwn**, **Reverse Engineering**, and **Full-stack Offensive Security**.
-
----
-
-**Currently Focused on:**
-- **Low-level:** Binary Exploitation & Reverse Engineering
-- **Infrastructure:** Web, Network & System Offensive Research
-- **Forensics:** Digital Investigation & Artifact Analysis
+exploring the intersection of **pwn**, **reverse engineering**, and **full-stack offensive security**.
 
 ---
 
-### Stack
-`Python` · `C/C++` · `Assembly` · `Linux`
+**currently focused on:**
+- **low-level:** binary exploitation & reverse engineering
+- **infrastructure:** web, network & system offensive research
+- **forensics:** digital investigation & artifact analysis
+
+---
+
+### stack
+`python` · `c/c++` · `assembly` · `linux`
